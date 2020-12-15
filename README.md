@@ -15,7 +15,7 @@ Quantized examples:
 
 Afterwards we serialize the images to obtain linear sequences of length 784 per image, which can be fed into the model as used in NLP. 
 
-See the notebook to get an in-depth explanation of the model.
+See the [notebook](https://github.com/GregorKobsik/ImageTransformer/blob/main/transformer_image.ipynb) to get an in-depth explanation of the model.
 
 ## Results
 
@@ -41,7 +41,7 @@ Generated output:
 
 - [Image GPT Blog](https://openai.com/blog/image-gpt/) - original ImageGPT by Chen et al.
 
-- [ImageGPT in PyTorch](https://github.com/teddykoker/image-gpt) - an implementation of ImageGPT for PyTorch
+- [ImageGPT in PyTorch](https://github.com/teddykoker/image-gpt) - an implementation of ImageGPT for PyTorch.
 
 ### Keywords
 
