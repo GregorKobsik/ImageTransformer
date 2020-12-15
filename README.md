@@ -42,3 +42,7 @@ Generated output:
 - [Image GPT Blog](https://openai.com/blog/image-gpt/) - original ImageGPT by Chen et al.
 
 - [ImageGPT in PyTorch](https://github.com/teddykoker/image-gpt) - an implementation of ImageGPT for PyTorch
+
+### Keywords
+
+Autoregressive Image Generation, MNIST, Transformers, Transformer Decoder, ImageGPT, Generative Methods, Generative Loss, Deep Learning, Machine Learning, TensorFlow 2
